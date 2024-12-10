@@ -1,3 +1,4 @@
+![logo](https://github.com/riya-Xx/riya-Xx/blob/main/Github%20Background.png)
 <h1 align="center">Hi 👋, I'm riYa</h1>
 <h3 align="center">A passionate AI/ML Engineer from India</h3>
 
