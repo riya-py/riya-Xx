@@ -1,14 +1,14 @@
 ![logo](https://github.com/riya-Xx/riya-Xx/blob/main/Github%20Background.png)
 <h1 align="center">Hi 👋, I'm riYa</h1>
-<h3 align="center">A passionate AI/ML Engineer from India</h3>
+<h3 align="center">A passionate Data Analysis and ML Enthusiast from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riya-xx&label=Profile%20views&color=0e75b6&style=flat" alt="riYa" /> </p>
 
-- 🔭 I’m currently working on **Smart home automation, security bots, and AI/ML projects.**
+- 🔭 I’m currently working on data analysis projects, predictive modeling, and exploring advanced ML algorithms.**
 
-- 🌱 I’m currently learning **Generative AI, MLOps, and NLP**
+- 🌱 I’m currently learning **Advance ML algorithms, MLOps, and NLP**
 
 - 👯 I’m looking to collaborate on **AI-driven apps and hackathon ideas.**
 
@@ -18,7 +18,8 @@
 
 - 📫 How to reach me **riya.rk006@gmail.com**
 
-- ⚡ Fun fact **I mix tech with creativity—apps, bots, and even love notes!**
+- ⚡ Fun fact **
+I blend tech with creativity—analyzing data, building models, and crafting innovative solutions!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,6 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riya-xx&show_icons=true&locale=en&layout=compact" alt="riya-xx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riya-xx&show_icons=true&locale=en" alt="riya-xx" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riya-xx&show_icons=true&locale=en" alt="riya-Xx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riya-xx&" alt="riya-xx" /></p>
