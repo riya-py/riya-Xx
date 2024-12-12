@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riya-Xx&label=Profile%20views&color=0e75b6&style=flat" alt="riYa" /> </p>
+<p align="left"> <img src="" alt="riYa" /> </p>
 
 - 🔭 I’m currently working on data analysis projects, predictive modeling, and exploring advanced ML algorithms.**
 
