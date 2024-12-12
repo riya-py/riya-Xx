@@ -1,6 +1,6 @@
 ![logo](https://github.com/user-attachments/assets/50dd8054-4544-4c40-9127-afc809d16bb3)
 
-<h1 align="center">Hi 👋, I'm riYa</h1>
+<h1 align="center">Hello World! 👋, I'm riYa</h1>
 <h3 align="center">A passionate Data Analysis and ML Enthusiast from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2g1cDF0ajluYTgwdnVzN3huYndpMnloYWs5ZmxlbGduNGJxbWN5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VEzzG2z00HqN5gtlYL/giphy.gif">
