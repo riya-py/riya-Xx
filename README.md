@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm riYa</h1>
 <h3 align="center">A passionate Data Analysis and ML Enthusiast from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif">
+<img align="right" alt="coding" width="400" src="C:\Users\hp\Documents\Gen-3 Alpha Turbo 1767140130, An animated black-an, Cropped - coding ani, M 5.mp4">
 
-<p align="left"> <img src="" alt="riYa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=riya-Xx&label=Profile%20views&color=0e75b6&style=flat" alt="riYa" /> </p>
 
-- 🔭 I’m currently working on data analysis projects, predictive modeling, and exploring advanced ML algorithms.**
+- 🔭 I’m currently working on data analysis projects, predictive modeling, and exploring advanced ML algorithms.
 
-- 🌱 I’m currently learning **Advance ML algorithms, MLOps, and NLP**
+- 🌱 I’m currently learning **Advance ML algorithms, MLOps, and NLP.**
 
 - 👯 I’m looking to collaborate on **AI-driven apps and hackathon ideas.**
 
@@ -20,7 +20,7 @@
 - 📫 How to reach me **riya.rk006@gmail.com**
 
 - ⚡ Fun fact **
-I blend tech with creativity—analyzing data, building models, and crafting innovative solutions!**
+I blend tech with creativity—analyzing data, building models, and crafting innovative solutions!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
