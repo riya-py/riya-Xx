@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm riYa</h1>
 <h3 align="center">A passionate Data Analysis and ML Enthusiast from India</h3>
 
-<img align="right" alt="coding" width="400" src="C:\Users\hp\Documents\Gen-3 Alpha Turbo 1767140130, An animated black-an, Cropped - coding ani, M 5.mp4">
+<img align="right" alt="coding" width="400" src="Gen-3 Alpha Turbo 1767140130, An animated black-an, Cropped - coding ani, M 5.mp4">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riya-Xx&label=Profile%20views&color=0e75b6&style=flat" alt="riYa" /> </p>
 
