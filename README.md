@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **riya.rk006@gmail.com**
 
-- ⚡ Fun fact **
+- ⚡ Fun fact
 I blend tech with creativity—analyzing data, building models, and crafting innovative solutions!
 
 <h3 align="left">Connect with me:</h3>
