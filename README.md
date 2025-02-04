@@ -31,6 +31,3 @@ I blend tech with creativity—analyzing data, building models, and crafting inn
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riya-py&show_icons=true&locale=en&layout=compact" alt="riYa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riya-py&show_icons=true&locale=en" alt="riYa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riya-py&" alt="riYa" /></p>
-
