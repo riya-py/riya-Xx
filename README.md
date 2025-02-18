@@ -1,4 +1,4 @@
-![logo](https://github.com/user-attachments/assets/63a87325-cf4d-4af1-8aec-627dd0d8d372)
+![logo](https://github.com/user-attachments/assets/63a87325-cf4d-4af1-8aec-627dd0d8d372) 
  
 <h1 align="center">Hello World! 👋, I'm riYa</h1>   
 <h3 align="center">A passionate Data Analysis and ML Enthusiast from India</h3>
