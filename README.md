@@ -21,7 +21,7 @@
 - ⚡ Fun fact
 I blend tech with creativity—analyzing data, building models, and crafting innovative solutions!
 
-<h3 align="left">Connect with me: linkedin.com/in/riyark006 </h3> 
+<h3 align="left">Connect with me: www.linkedin.com/in/riyark006 </h3> 
 <p align="left">
 </p>
 
